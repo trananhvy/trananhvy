@@ -26,7 +26,6 @@
   <a href="https://github.com/trananhvy" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
-  
 </p>
 
 ## Skills:

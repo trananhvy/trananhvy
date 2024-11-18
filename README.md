@@ -38,8 +38,7 @@
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
   <img src="[https://img.icons8.com/color/48/000000/github-2.png](https://3.bp.blogspot.com/-xhNpNJJyQhk/XIe4GY78RQI/AAAAAAAAItc/ouueFUj2Hqo5dntmnKqEaBJR4KQ4Q2K3ACK4BGAYYCw/s1600/logo%2Bgit%2Bicon.png)"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
- 
-  <img src="https://www.liblogo.com/img-logo/no6273w13b-node-js-logo-what-does-it-take-to-support-node-js-esm-the-guild-blog.png"/>
+  <img src="https://icons8.com/icon/20909/html-5"/>
 </p>
 
 ## Activities:

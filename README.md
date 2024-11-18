@@ -15,7 +15,7 @@
 
 🌱 I’m currently learning Software Engineering at FPT University
 
-📫 How to reach me zunguyen1505@gmail.com
+📫 How to reach me trananhvy9420@gmail.com
 
 ⚡ Fun fact I am funny 😂
 

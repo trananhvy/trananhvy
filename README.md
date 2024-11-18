@@ -7,7 +7,7 @@
 
 - ✍ I'm a student of: [FPT University] (FPTU).
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 I’m currently learning **React, NodeJS , ExpressJS .**
 
 <br />
 

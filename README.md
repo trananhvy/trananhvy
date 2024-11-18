@@ -21,13 +21,13 @@
 
 <p align="center">
   <a href="https://www.facebook.com/1590trananhvy/" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank"width="48" height="48" />
   </a> 
   <a href="https://github.com/trananhvy" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" width="48" height="48"/>
   </a> 
   <a href="https://www.instagram.com/quachthanhvy159o/" alt="Instagram">
-    <img src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" />
+    <img src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" width="48" height="48" />
   </a>
 </p>
 

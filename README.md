@@ -41,7 +41,7 @@
   <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
   <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
   <img src="https://img.icons8.com/fluent/48/000000/spyder-ide.png"/>
-  <img src="https://th.bing.com/th/id/OIP.-wK8kSbegCP7kdE8hVjRCQHaHk?rs=1&pid=ImgDetMain"/>
+  <img src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png"/>
 </p>
 
 ## Activities:

@@ -11,7 +11,7 @@
 
 <br />
 
-## 📫 How to reach me:
+##  My Profile:
 
 🌱 I’m currently learning Software Engineering at FPT University
 

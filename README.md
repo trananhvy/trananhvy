@@ -13,7 +13,11 @@
 
 ## 📫 How to reach me:
 
-[![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+🌱 I’m currently learning Software Engineering at FPT University
+
+📫 How to reach me zunguyen1505@gmail.com
+
+⚡ Fun fact I am funny 😂
 
 <p align="center">
   <a href="https://linkedin.com/in/tien-nhm" target="_blank">

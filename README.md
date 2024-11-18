@@ -43,6 +43,9 @@
   <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" width="48" height="48"/>
   <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="48" height="48"/>
   <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="48" height="48"/>
+  <img src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" width="48" height="48"/>
+  <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" width="48" height="48"/>
+  
   
 </p>
 

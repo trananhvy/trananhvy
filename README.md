@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @trananhvy
-- 👀 I’m interested in ...
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning Software Engineering at FPT University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me trananhvy9420@gmail.com

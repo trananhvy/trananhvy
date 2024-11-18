@@ -38,7 +38,7 @@
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
   <img src="[https://img.icons8.com/color/48/000000/github-2.png](https://3.bp.blogspot.com/-xhNpNJJyQhk/XIe4GY78RQI/AAAAAAAAItc/ouueFUj2Hqo5dntmnKqEaBJR4KQ4Q2K3ACK4BGAYYCw/s1600/logo%2Bgit%2Bicon.png)"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://logospng.org/wp-content/uploads/tailwind-css.png"/>
+  <img src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png"/>
 </p>
 
 ## Activities:

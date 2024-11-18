@@ -75,12 +75,11 @@
 
 
 - [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Java Enterprise Edition ](https://www.coursera.org/account/accomplishments/specialization/certificate/T4K6ZP3WEJN6)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Software Development
- Lifecycle]([https://www.coursera.org/account/accomplishments/certificate/MBSDFCKQ9X8E](https://www.coursera.org/account/accomplishments/specialization/certificate/XJVDJGYA89WH))
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Python Data Structures](https://www.coursera.org/account/accomplishments/certificate/PQMJRCLM7BCQ)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Programming for Everybody (Getting Started with Python)](https://www.coursera.org/account/accomplishments/certificate/V7MK7JDL96DU)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/account/accomplishments/certificate/DVXXD98ESKLP)
-- [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Python](https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/python)
-- [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Intro to Machine Learning](https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/intro-to-machine-learning)
-- [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Intro to Deep Learning](https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/intro-to-deep-learning)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green)  Software Development
+ Lifecycle ](https://www.coursera.org/account/accomplishments/specialization/certificate/XJVDJGYA89WH)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Web Design for Everybody:
+ Basics of Web
+ Development & Coding](https://www.coursera.org/account/accomplishments/specialization/certificate/MVKG295R4CWP)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green)  Computer
+ Communications](https://www.coursera.org/account/accomplishments/specialization/certificate/N27M3F5US6CD)
 

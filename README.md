@@ -39,7 +39,7 @@
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
   <img src="[https://img.icons8.com/color/48/000000/github-2.png](https://3.bp.blogspot.com/-xhNpNJJyQhk/XIe4GY78RQI/AAAAAAAAItc/ouueFUj2Hqo5dntmnKqEaBJR4KQ4Q2K3ACK4BGAYYCw/s1600/logo%2Bgit%2Bicon.png)"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="(https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png)"/>
+  <img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png"/>
 </p>
 
 ## Activities:

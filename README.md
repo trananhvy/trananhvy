@@ -13,7 +13,7 @@
 <br />
 
 ##  My Profile:
-## profile View:
+
 🌱 I’m currently learning Software Engineering at FPT University
 
 📫 How to reach me trananhvy9420@gmail.com
